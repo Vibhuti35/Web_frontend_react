@@ -27,7 +27,7 @@ export default class Signup extends React.Component {
           <br />
           <FormControl.Feedback />
         </FormGroup>
-        <Button type="submit" bsStyle="success" bsSize="large" block>Register</Button>
+        <Button type="submit" bsStyle="primary" bsSize="large" block>Register</Button>
       </form>
 
          </div>

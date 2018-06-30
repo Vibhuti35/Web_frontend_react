@@ -12,7 +12,7 @@ export default class Navigation extends React.Component {
     this.state = {
         }
   };
-     componentWillMount(){
+     componentMount(){
 
         let success = (position) => {
             console.log(position);

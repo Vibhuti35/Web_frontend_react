@@ -17,7 +17,7 @@ export default class Cardsample extends React.Component {
                         <CardTitle>{this.props.title}</CardTitle>
                         <CardSubtitle>{this.props.date}</CardSubtitle>
                         <CardText>{this.props.details}</CardText>
-                        <Button bsStyle="success" bsSize="large" type="button"> More Details</Button>
+                        <Button bsStyle="primary" bsSize="large" type="button"> More Details</Button>
                     </CardBody>
             </Card>
         </div>

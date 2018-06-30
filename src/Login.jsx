@@ -22,7 +22,7 @@ export default class Signin extends React.Component {
           <FormControl  type="password" placeholder="Enter Password" />
           <FormControl.Feedback />
         </FormGroup>
-        <Button type="submit" bsStyle="success" bsSize="large" block>Login</Button>
+        <Button type="submit" bsStyle="primary" bsSize="large" block>Login</Button>
       </form>
 
          </div>
