@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import './CSS/App.css';
+import './App.css';
 import Signin from './Login.jsx'; 
 import Signup from './Register.jsx'; 
 import HomePage from './Home.jsx'; 
